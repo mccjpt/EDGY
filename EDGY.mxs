@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbolLibrary xmlns="http://www.metacase.com/symbol" xmlns:sym="http://www.metacase.com/symbol">
+	<librarySymbol name="Metric">
+		<objectSymbol offset="30,20" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="140,34 139.543,36.2961 138.243,38.2426 136.296,39.5433 134,40 35.75,40 33.4539,39.5433 31.5074,38.2426 30.2067,36.2961 29.75,34 29.75,25.75 30.2067,23.4539 31.5074,21.5074 33.4539,20.2067 35.75,19.75 134,19.75 136.296,20.2067 138.243,21.5074 139.543,23.4539 140,25.75 140,34" targetPointX="85" targetPointY="30" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="40" version="1.2" width="140" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="rgb(0,0,0)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Black" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<rect fill="rgb(255,255,32)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Yellow" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<rect fill="rgb(213,213,213)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Gray" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<rect fill="rgb(32,237,0)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Green" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<rect fill="rgb(85,85,85)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Dark gray" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<rect fill="rgb(255,0,0)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="20">
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Red" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</rect>
+				<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="110" x="30" y="20">
+					ReportTextSource:id
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="~=" matchString="Black" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</textArea>
+				<textArea display-align="center" fill="rgb(255,255,255)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="110" x="30" y="20">
+					ReportTextSource:id
+					<metaInfo xmlns="http://www.metacase.com/symbol">
+						<displayCondition conditionOperator="=" matchString="Black" xmlns="http://www.w3.org/2000/svg">ReportTextSource::Color</displayCondition>
+					</metaInfo>
+				</textArea>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+	<librarySymbol name="Tag">
+		<objectSymbol offset="30,18" scaleFilter="1,1">
+			<defaultConnectable isSticky="true" points="140,32 139.498,34.2961 138.067,36.2426 135.927,37.5433 133.401,38 36.3485,38 33.8234,37.5433 31.6827,36.2426 30.2523,34.2961 29.75,32 29.75,23.75 30.2523,21.4539 31.6827,19.5074 33.8234,18.2067 36.3485,17.75 133.401,17.75 135.927,18.2067 138.067,19.5074 139.498,21.4539 140,23.75 140,32" targetPointX="85.0125" targetPointY="28" usesGrid="false"></defaultConnectable>
+			<svg baseProfile="tiny" height="38" version="1.2" width="140" xmlns="http://www.w3.org/2000/svg">
+				<rect fill="rgb(0,0,0)" height="20" rx="6" ry="6" stroke="rgb(255,255,255)" stroke-width="1" width="110" x="30" y="18">
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</rect>
+				<textArea display-align="center" fill="rgb(255,255,255)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="110" x="30" y="18">
+					ReportTextSource:id
+					<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+				</textArea>
+			</svg>
+		</objectSymbol>
+	</librarySymbol>
+</symbolLibrary>
