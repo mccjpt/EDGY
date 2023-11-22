@@ -6,5 +6,5 @@ An implementation of EDGY as enterprise design langauge for MetaEdit+ (www.metac
   - includes support for showing and hiding link types as well as their user given names
 - .mxs file includes library symbols
 
-After importing these two files into MetaEdit+ you may apply EDGY. For importing choose Repository | Import... (https://www.metacase.com/support/55/manuals/meplus/Mp-5_3_2.html) 
+After importing these two files into MetaEdit+ you may apply EDGY. For importing, login to MetaEdit+ and then choose Repository | Import... and start modeling with EDGY. (For import details see https://www.metacase.com/support/55/manuals/meplus/Mp-5_3_2.html) 
 The main objective for this implementation is being able to integrate EDGY with other modeling languages, and extend it as needed. Metamodel extensions can be done with MetaEdit+ Workbench.
